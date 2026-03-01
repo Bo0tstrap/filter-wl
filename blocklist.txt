@@ -1,1 +1,10 @@
-||reddit.com^
+!
+! Title: AdGuard DNS filter
+!
+||vongquayroblox.com^
+||ecsv2.roblox.com^
+||client-telemetry.roblox.com^
+||tracing.roblox.com^
+||metrics.roblox.com^
+||robloxviet.vn^
+||shoproblox247.com^
