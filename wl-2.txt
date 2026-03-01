@@ -1,0 +1,5 @@
+!
+
+# [roblox.com]
+127.0.0.1 ads.roblox.com
+127.0.0.1 metrics.roblox.com
